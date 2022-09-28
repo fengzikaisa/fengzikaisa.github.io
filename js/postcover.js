@@ -18,4 +18,6 @@ module.exports =  {
   微服务:"/images/post/weifuwu.png",
   hexo:"/images/post/hexo.jpg",
   数据库:"/images/post/database.jpg",
+  ElasticSearch:"/images/post/elasticsearch.jpg",
+  redis:"/images/post/redis.png",
 }
