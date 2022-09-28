@@ -14,5 +14,8 @@ module.exports =  {
   数据结构:"/images/post/data.jpg",
   工具:"/images/post/editor.jpg",
   UI库:"/images/post/ui.jpg",
-  美化:"/images/post/beautify.jpg"
+  美化:"/images/post/beautify.jpg",
+  微服务:"/images/post/weifuwu.png",
+  hexo:"/images/post/hexo.jpg",
+  数据库:"/images/post/database.jpg",
 }
